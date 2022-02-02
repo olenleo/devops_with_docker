@@ -1,0 +1,6 @@
+leo@leo-XPS-13-9380:~/opinnot/devops$ sudo docker image ls
+REPOSITORY   TAG       IMAGE ID   CREATED   SIZE
+leo@leo-XPS-13-9380:~/opinnot/devops$ sudo docker ps -a
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+leo@leo-XPS-13-9380:~/opinnot/devops$ 
+
