@@ -1,0 +1,5 @@
+Command used to run container: $ sudo docker run web-server
+Contents of Dockerfile:
+FROM devopsdockeruh/simple-web-service:alpine
+
+CMD server
