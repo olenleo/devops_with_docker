@@ -1,0 +1,4 @@
+The command I used is as follows:
+sudo docker run -it --name curly ubuntu sh -c 'apt update; apt install curl; echo Input website:; read website; echo Searching..; sleep 1; curl http://;'
+
+I guess running a container, accessing shell and installing curl, then passing the 'echo Input website: [...];' command should work. I could not however figure out how to do this.
