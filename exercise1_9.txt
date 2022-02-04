@@ -1,0 +1,1 @@
+sudo docker run -v /home/leo/opinnot/devops/mydir/mydir/text.log:/usr/src/app/text.log devopsdockeruh/simple-web-service
